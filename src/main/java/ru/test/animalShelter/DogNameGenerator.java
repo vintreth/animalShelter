@@ -8,12 +8,12 @@ class DogNameGenerator extends NameGenerator {
 
     @Override
     protected String[] getNames() {
-        return new String[] {
-                "Bigson",
-                "Bazuka",
-                "Giant",
-                "Seven",
-                "Toby"
+        return new String[]{
+            "Bigson",
+            "Bazuka",
+            "Giant",
+            "Seven",
+            "Toby"
         };
     }
 }

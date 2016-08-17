@@ -8,13 +8,13 @@ class CatNameGenerator extends NameGenerator {
 
     @Override
     protected String[] getNames() {
-        return new String[] {
-                "Oliver",
-                "Tiger",
-                "Lucy",
-                "Luna",
-                "Jack",
-                "Sophie"
+        return new String[]{
+            "Oliver",
+            "Tiger",
+            "Lucy",
+            "Luna",
+            "Jack",
+            "Sophie"
         };
     }
 }
